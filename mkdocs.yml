@@ -3,6 +3,77 @@ site_name: WIKI Netzwerktechnik
 theme:
   name: material
 
+plugins:
+  - search
+  - mermaid2
+  - tags
+
+markdown_extensions:
+  - pymdownx.superfences
+
 nav:
   - Home: index.md
   - Setup: setup.md
+  - Netzwerkgeräte:
+      - Router: netzwerkgeraete/router.md
+      - Switch: netzwerkgeraete/switch.md
+      - Hotspot: netzwerkgeraete/hotspot.md
+      - Modem: netzwerkgeraete/modem.md
+      - Firewall: netzwerkgeraete/firewall.md
+      - NAS & SAN: netzwerkgeraete/nas-san.md
+  - Netzwerktypen:
+      - LAN: netzwerktypen/lan.md
+      - WAN/PAN/GAN/MAN: netzwerktypen/wan-pan-gan-man.md
+      - WLAN: netzwerktypen/wlan.md
+      - MESH: netzwerktypen/mesh.md
+  - WLAN:
+      - Frequenzen: wlan/wlan-frequenzen.md
+      - WiFi-Standards: wlan/wifi-standards.md
+      - DECT: wlan/dect.md
+  - Sicherheit:
+      - TKIP: sicherheit/tkip.md
+      - AES: sicherheit/aes.md
+      - WPA: sicherheit/wpa.md
+      - VPN: sicherheit/vpn.md
+      - SSH: sicherheit/ssh.md
+  - Verkabelung:
+      - Cat-Kabel: verkabelung/cat-kabel.md
+      - EIA-568: verkabelung/eia568.md
+      - RJ45: verkabelung/rj45.md
+      - Patchkabel: verkabelung/patchkabel.md
+  - Protokolle:
+      - TCP: protokolle/tcp.md
+      - UDP: protokolle/udp.md
+      - IPX: protokolle/ipx.md
+      - ARP/RARP: protokolle/arp-rarp.md
+      - HTTP/HTTPS: protokolle/http-https.md
+      - FTP/SFTP: protokolle/ftp-sftp.md
+  - Netzwerkdienste:
+      - DHCP: netzwerkdienste/dhcp.md
+      - DNS: netzwerkdienste/dns.md
+      - SNMP: netzwerkdienste/snmp.md
+      - RADIUS: netzwerkdienste/radius.md
+      - Lease Time: netzwerkdienste/leasetime.md
+  - Adressierung:
+      - IPv4/IPv6: adressierung/ipv4-ipv6.md
+      - MAC: adressierung/mac.md
+      - Subnetz: adressierung/subnetz.md
+      - VLAN: adressierung/vlan.md
+      - Trunking: adressierung/trunking.md
+      - DMZ: adressierung/dmz.md
+  - Kommunikation:
+      - SMTP/IMAP/POP3: kommunikation/smtp-imap-pop3.md
+      - Telefonie: kommunikation/telefonie.md
+      - TAE: kommunikation/tae.md
+  - Übertragung:
+      - DSL: uebertragung/dsl.md
+      - SFTP/UTP/SSTP: uebertragung/sftp-utp-sstp.md
+      - PoE: uebertragung/poe.md
+
+mermaid:
+  javascript:
+    - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+
+# Hinweis:
+# - Plugins wie mermaid2 und tags müssen ggf. installiert werden (pip install mkdocs-mermaid2-plugin mkdocs-tags-plugin)
+# - Material setzt die Volltextsuche standardmäßig ein; 'search' bleibt empfohlen
