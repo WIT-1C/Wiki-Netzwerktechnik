@@ -1,0 +1,8 @@
+document$.subscribe(() => {
+    mermaid.initialize({
+        startOnLoad: true,
+        theme: "dark"
+    });
+
+    mermaid.run();
+});
