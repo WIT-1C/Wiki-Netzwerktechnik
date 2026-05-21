@@ -6,12 +6,6 @@ theme:
 plugins:
   - search
   - tags
-  - mermaid2:
-      version: 10.1.0
-      javascript: https://unpkg.com/mermaid@10/dist/mermaid.min.js
-
-extra_javascript:
-  - js/mermaid-config.js
 
 markdown_extensions:
   - pymdownx.superfences
