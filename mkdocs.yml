@@ -1,0 +1,8 @@
+site_name: WIKI Netzwerktechnik
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Setup: setup.md
