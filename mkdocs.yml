@@ -5,7 +5,6 @@ theme:
 
 plugins:
   - search
-  - mermaid2
   - tags
 
 markdown_extensions:
@@ -70,10 +69,10 @@ nav:
       - SFTP/UTP/SSTP: uebertragung/sftp-utp-sstp.md
       - PoE: uebertragung/poe.md
 
-mermaid:
-  javascript:
-    - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - assets/js/mermaid-init.js
 
 # Hinweis:
-# - Plugins wie mermaid2 und tags müssen ggf. installiert werden (pip install mkdocs-mermaid2-plugin mkdocs-tags-plugin)
+# - Wenn du das mkdocs-mermaid2-plugin bevorzugst, entferne die extra_javascript Einträge und füge 'mermaid2' unter plugins ein.
 # - Material setzt die Volltextsuche standardmäßig ein; 'search' bleibt empfohlen

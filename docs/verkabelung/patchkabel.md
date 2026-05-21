@@ -49,6 +49,8 @@ Layer 1 (Bitübertragungsschicht).
 Patchkabel sind essenziell für flexible und schnelle Netzwerkverbindungen. Die richtige Auswahl und Handhabung ist entscheidend.
 
 ## Verwandte Themen
-- [[/verkabelung/cat-kabel]]
-- [[/verkabelung/rj45]]
-- [[/verkabelung/eia568]]
+- [CatKabel](cat-kabel.md)
+- [Rj45](rj45.md)
+- [Eia568](eia568.md)
+
+

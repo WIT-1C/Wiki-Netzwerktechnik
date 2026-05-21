@@ -62,6 +62,8 @@ Cat-Kabel arbeiten auf der Bitübertragungsschicht (Layer 1).
 Cat-Kabel sind das Rückgrat moderner Netzwerke. Die Wahl der richtigen Kategorie ist entscheidend für Performance und Zuverlässigkeit.
 
 ## Verwandte Themen
-- [[/verkabelung/patchkabel]]
-- [[/verkabelung/rj45]]
-- [[/verkabelung/eia568]]
+- [Patchkabel](patchkabel.md)
+- [Rj45](rj45.md)
+- [Eia568](eia568.md)
+
+
