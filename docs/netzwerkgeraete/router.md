@@ -72,11 +72,11 @@ ip route 0.0.0.0 0.0.0.0 198.51.100.1
 ## Mermaid‑Diagramm
 ```mermaid
 graph LR
-  Internet((Internet)) --> Modem[Modem (Bridge)]
-  Modem --> Router[Router (Edge, NAT/DHCP)]
-  Router --> Switch[Switch (LAN)]
+  I((Internet)) --> Modem["Modem (Bridge)"]
+  Modem --> Router["Router (Edge, NAT/DHCP)"]
+  Router --> Switch["Switch (LAN)"]
   Switch --> PC[Arbeitsplatz]
-  Router --> VPN[Site-to-Site VPN]
+  Router --> VPN["Site-to-Site VPN"]
 ```
 
 ## Zusammenfassung
