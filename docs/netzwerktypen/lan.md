@@ -64,7 +64,7 @@ Router (Gateway): 10.10.10.1
 ## Mermaid‑Diagramm
 ```mermaid
 graph LR
-  Core[Core Switch (L3)] --> Access1[Access Switch 1]
+  Core["Core Switch (L3)"] --> Access1[Access Switch 1]
   Core --> Access2[Access Switch 2]
   Access1 --> PC1[Arbeitsplatz A]
   Access1 --> AP[Access Point]
