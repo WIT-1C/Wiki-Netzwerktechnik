@@ -69,8 +69,8 @@ SSID "Betrieb" {
 graph LR
   Internet --> Router
   Router --> Switch
-  Switch --> AP1[AP 1 (VLAN 10)]
-  Switch --> AP2[AP 2 (VLAN 20 - Gäste)]
+  Switch --> AP1["AP 1 (VLAN 10)"]
+  Switch --> AP2["AP 2 (VLAN 20 - Gäste)"]
   AP1 --> Client1[Benutzergerät]
   AP2 --> Guest1[Gastgerät]
 ```
