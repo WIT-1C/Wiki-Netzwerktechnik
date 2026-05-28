@@ -56,9 +56,9 @@ AP benötigt: 20W => max 18 APs gleichzeitig
 ## Mermaid‑Diagramm
 ```mermaid
 graph LR
-  PoESwitch[PSE PoE Switch] --> AP1[AP (PD)]
-  PoESwitch --> Cam1[IP Camera (PD)]
-  PoESwitch --> Phone1[VoIP Phone (PD)]
+  PoESwitch[PSE PoE Switch] --> AP1["AP (PD)"]
+  PoESwitch --> Cam1["IP Camera (PD)"]
+  PoESwitch --> Phone1["VoIP Phone (PD)"]
 ```
 
 ## Zusammenfassung
