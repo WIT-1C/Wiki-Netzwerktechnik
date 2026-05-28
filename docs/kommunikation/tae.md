@@ -1,7 +1,5 @@
 # TAE (Telekommunikations‑Anschluss-Einheit)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 TAE ist die in Deutschland übliche Anschlussdose für Telefonie (Analog/ISDN). Diese Seite erklärt Aufbau, Typen und typische Anschlussfragen.
 

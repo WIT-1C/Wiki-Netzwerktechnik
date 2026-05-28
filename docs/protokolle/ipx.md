@@ -1,7 +1,5 @@
 # IPX (Internetwork Packet Exchange)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 IPX ist ein älteres Netzwerkprotokoll, ursprünglich von Novell für NetWare‑Netzwerke verwendet. Heute weitgehend ersetzt durch IP.
 

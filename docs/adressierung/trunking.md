@@ -1,7 +1,5 @@
 # Trunking (802.1Q Trunks)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Trunking verbindet Switches und transportiert mehrere VLANs über eine einzige physische Verbindung mittels VLAN‑Tagging.
 

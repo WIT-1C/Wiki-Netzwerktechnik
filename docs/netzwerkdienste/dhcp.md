@@ -1,7 +1,5 @@
 # DHCP (Dynamic Host Configuration Protocol)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 DHCP automatisiert die Vergabe von IP‑Adressen und zugehörigen Netzwerkparametern (Gateway, DNS) an Clients — unverzichtbar in modernen Netzwerken.
 

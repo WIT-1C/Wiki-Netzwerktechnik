@@ -1,7 +1,5 @@
 # LAN (Local Area Network)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Ein LAN (Local Area Network) verbindet Geräte in einem begrenzten geografischen Bereich (z. B. Büro, Gebäude). Fokus: schnelle Übertragung, geringe Latenz und gemeinsame Nutzung von Ressourcen.
 

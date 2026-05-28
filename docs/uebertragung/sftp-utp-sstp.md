@@ -1,7 +1,5 @@
 # SFTP, UTP, SSTP — Übertragungs‑ und Transporttechnologien
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Diese Seite fasst drei unterschiedliche Begriffe zusammen: SFTP (sicherer Dateiübertragungsdienst), UTP (Unshielded Twisted Pair Verkabelung) und SSTP (Secure Socket Tunneling Protocol). Sie gehören zu verschiedenen Schichten der Übertragungspalette.
 

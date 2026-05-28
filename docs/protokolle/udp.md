@@ -1,7 +1,5 @@
 # UDP (User Datagram Protocol)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 UDP ist ein verbindungsloses Transportprotokoll für schnelle, einfache Paketübertragung ohne Garantie für Reihenfolge oder Zustellung.
 

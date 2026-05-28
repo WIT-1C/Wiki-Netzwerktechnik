@@ -1,7 +1,5 @@
 # Wiki Netzwerktechnik — Übersicht
 
-Dieses Wiki richtet sich an IT‑Auszubildende und Einsteiger in der Systemadministration. Ziel ist eine praxisnahe, technisch korrekte Einführung in zentrale Themen der Netzwerktechnik mit verständlichen Erklärungen, Praxisbeispielen und Troubleshooting‑Hinweisen.
-
 ## Schnellstart
 - Suche oben rechts benutzen (Material Theme) oder das Inhaltsverzeichnis unten.
 - Empfohlene Startseiten: [Netzwerkgeräte](netzwerkgeraete/router.md), [Adressierung](adressierung/ipv4-ipv6.md), [Sicherheit](sicherheit/wpa.md)

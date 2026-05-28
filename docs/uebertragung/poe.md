@@ -1,7 +1,5 @@
 # PoE (Power over Ethernet)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 PoE erlaubt die Versorgung von Netzwerkgeräten (z. B. Access Points, IP‑Kameras) über das Ethernet‑Kabel, ohne separate Stromzufuhr.
 

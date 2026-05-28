@@ -1,7 +1,5 @@
 # ARP / RARP
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 ARP (Address Resolution Protocol) und RARP (Reverse ARP) sind Protokolle zur Zuordnung von IP‑Adressen zu MAC‑Adressen bzw. umgekehrt (historisch für RARP).
 

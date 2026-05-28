@@ -1,7 +1,5 @@
 # VLAN (Virtual LAN)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 VLANs ermöglichen logische Segmentierung eines physischen Netzwerks zur Trennung von Broadcast‑Domänen.
 

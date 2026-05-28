@@ -1,7 +1,5 @@
 # DNS (Domain Name System)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 DNS übersetzt menschenlesbare Domainnamen in IP‑Adressen und ist ein kritischer Dienst im Internet und lokalen Netzwerken.
 

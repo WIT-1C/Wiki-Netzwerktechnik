@@ -1,7 +1,5 @@
 # WPA (Wi‑Fi Protected Access)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 WPA ist eine Familie von Sicherheitsprotokollen für WLAN (WPA, WPA2, WPA3). Sie definieren Authentifizierung, Verschlüsselung und Integritätsprüfungen für Wi‑Fi‑Netze.
 

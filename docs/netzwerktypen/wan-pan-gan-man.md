@@ -1,7 +1,5 @@
 # WAN, PAN, GAN, MAN — Netzwerktypen im Überblick
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Netzwerktypen unterscheiden sich nach Reichweite, Topologie und Zweck. Dieses Dokument fasst PAN (Personal), LAN (Local), MAN (Metropolitan), WAN (Wide) und GAN (Global) zusammen und zeigt typische Technologien und Einsatzzwecke.
 

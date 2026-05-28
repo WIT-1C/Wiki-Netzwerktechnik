@@ -1,7 +1,5 @@
 # WLAN (Wireless Local Area Network)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 WLAN (Wi‑Fi) ermöglicht kabellosen Zugang zu Netzwerken über Funk. Diese Seite erklärt die technischen Grundlagen, Architektur und praktische Betriebsaspekte.
 

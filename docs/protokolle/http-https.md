@@ -1,7 +1,5 @@
 # HTTP & HTTPS
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 HTTP ist das unverschlüsselte Protokoll für Web‑Kommunikation; HTTPS ist die verschlüsselte Variante (HTTP über TLS), die Vertraulichkeit und Integrität bietet.
 

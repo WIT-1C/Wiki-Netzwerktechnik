@@ -1,7 +1,5 @@
 # SMTP, IMAP & POP3
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 E‑Mail‑Systeme basieren auf drei zentralen Protokollen: SMTP für den Versand, IMAP und POP3 für den Empfang. Diese Seite erklärt Unterschiede, Einsatz und Betrieb.
 

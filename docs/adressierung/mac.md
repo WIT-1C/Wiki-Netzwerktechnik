@@ -1,7 +1,5 @@
 # MAC‑Adressen
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 MAC‑Adressen (Media Access Control) sind eindeutige Hardware‑Adressen auf Layer 2, mit denen Netzwerkkarten identifiziert werden.
 

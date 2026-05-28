@@ -1,7 +1,5 @@
 # FTP & SFTP
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 FTP ist ein älteres, unverschlüsseltes Protokoll für Dateiübertragung; SFTP (SSH File Transfer Protocol) bietet sicheren Dateitransfer über SSH.
 

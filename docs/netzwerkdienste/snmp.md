@@ -1,7 +1,5 @@
 # SNMP (Simple Network Management Protocol)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 SNMP ermöglicht Monitoring und Management von Netzwerkgeräten (Switches, Router, Server) über MIBs (Management Information Base).
 

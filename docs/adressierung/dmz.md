@@ -1,7 +1,5 @@
 # DMZ (Demilitarized Zone)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Eine DMZ ist ein isoliertes Netzwerksegment für öffentlich zugängliche Dienste (Web, Mail), das das interne Netzwerk vor direkten Zugriffen schützt.
 

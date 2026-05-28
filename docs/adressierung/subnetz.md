@@ -1,7 +1,5 @@
 # Subnetz (Subnetting)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Subnetting teilt ein IP‑Netz in kleinere Subnetze, verbessert Sicherheit und Adressverwaltung.
 

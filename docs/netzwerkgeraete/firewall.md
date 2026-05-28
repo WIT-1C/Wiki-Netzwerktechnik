@@ -1,7 +1,5 @@
 # Firewall
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration und Administratoren
-
 ## Einführung
 Firewalls kontrollieren Netzwerkverkehr anhand definierter Regeln und schützen Netzwerke vor unerwünschten Zugriffen. Sie können auf verschiedenen Ebenen (Packet, Connection, Application) arbeiten.
 

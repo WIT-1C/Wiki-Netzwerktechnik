@@ -1,7 +1,5 @@
 # DECT (Digital Enhanced Cordless Telecommunications)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 DECT ist ein Funkstandard primär für schnurlose Telefonie und in jüngerer Zeit für IoT‑Anwendungen (DECT ULE). Diese Seite beschreibt Technik, Einsatz und Betriebsaspekte.
 

@@ -1,7 +1,5 @@
 # Mesh‑Netzwerke
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Mesh‑Netzwerke verbinden mehrere Knoten zu einem selbstheilenden, dynamischen Netz. Sie erweitern Abdeckung und Redundanz, besonders dort, wo Kabel‑Backhaul eingeschränkt ist.
 

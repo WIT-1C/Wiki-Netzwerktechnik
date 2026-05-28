@@ -1,7 +1,5 @@
 # IPv4 & IPv6
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Diese Seite erklärt die Adressierung mit IPv4 und IPv6, Unterschiede, Planung und typische Einsatzszenarien.
 

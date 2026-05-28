@@ -1,7 +1,5 @@
 # Wi‑Fi / IEEE 802.11‑Standards
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Übersicht über die wichtigsten IEEE 802.11 (Wi‑Fi) Standards: b/g/n/ac/ax (Wi‑Fi 4/5/6) und ihre technischen Merkmale, Anwendungsfälle und Kompatibilitäten.
 

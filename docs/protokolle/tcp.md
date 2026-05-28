@@ -1,7 +1,5 @@
 # TCP (Transmission Control Protocol)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 TCP ist ein verbindungsorientiertes Transportprotokoll, das zuverlässige, geordnete und fehlergeprüfte Datenübertragung zwischen Hosts ermöglicht.
 

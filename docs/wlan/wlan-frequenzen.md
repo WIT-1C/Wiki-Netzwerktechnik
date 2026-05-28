@@ -1,7 +1,5 @@
 # WLAN‑Frequenzen
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Diese Seite erklärt die für WLAN genutzten Frequenzbänder (2,4 GHz, 5 GHz, 6 GHz), deren Eigenschaften, Kanalschemata und praktische Auswirkungen auf Planung und Betrieb.
 

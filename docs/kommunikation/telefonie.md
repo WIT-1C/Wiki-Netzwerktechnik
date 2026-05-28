@@ -1,7 +1,5 @@
 # Telefonie (VoIP & klassische Telefonie)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Telefonie umfasst klassische PSTN‑Anschlüsse und moderne VoIP‑Lösungen (SIP/RTP). Diese Seite beschreibt Grundlagen, Protokolle und Betrieb.
 

@@ -1,7 +1,5 @@
 # SSH (Secure Shell)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 SSH ist das Standardprotokoll für sicheren Fernzugriff auf Systeme, Dateiübertragungen (SCP/SFTP) und Port‑Tunneling. Es ersetzt unsichere Protokolle wie Telnet.
 

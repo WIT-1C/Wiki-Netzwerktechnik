@@ -1,7 +1,5 @@
 # Hotspot / Access Point (AP)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration und Einsteiger-Administratoren
-
 ## Einführung
 Ein Hotspot bzw. Access Point stellt kabellosen Netzwerkzugang (WLAN) bereit. In Unternehmen werden APs zentral verwaltet; in kleinen Netzwerken meist als einzelne Geräte betrieben.
 

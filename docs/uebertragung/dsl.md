@@ -1,7 +1,5 @@
 # DSL (Digital Subscriber Line)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 DSL ist eine Familie breitbandiger Zugangstechniken über bestehende Kupferleitungen (Telefonleitung) und wird oft für Internetzugang in Haushalten und kleinen Büros genutzt.
 

@@ -1,7 +1,5 @@
 # Switch
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration und Systemadministratoren (Einsteiger bis Fortgeschrittene)
-
 ## Einführung
 Switches verbinden Geräte innerhalb eines LANs und leiten Ethernet‑Frames basierend auf MAC‑Adressen weiter. Sie bilden das Rückgrat lokaler Netzwerke.
 

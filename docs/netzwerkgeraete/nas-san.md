@@ -1,7 +1,5 @@
 # NAS & SAN — Netzwerkbasierte Storage‑Lösungen
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 NAS (Network Attached Storage) und SAN (Storage Area Network) sind zwei Konzepte zur Bereitstellung von Speicherressourcen im Netzwerk. NAS liefert Datei‑Level‑Zugriff; SAN bietet Block‑Level‑Zugriff.
 

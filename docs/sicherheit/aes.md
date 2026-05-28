@@ -1,7 +1,5 @@
 # AES (Advanced Encryption Standard)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 AES ist ein symmetrisches Verschlüsselungsverfahren, das in vielen Netzwerk‑ und Speichersystemen als Standard zur Datenverschlüsselung verwendet wird.
 

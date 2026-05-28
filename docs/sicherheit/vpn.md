@@ -1,7 +1,5 @@
 # VPN (Virtual Private Network)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 VPNs ermöglichen sichere, verschlüsselte Verbindungen über unsichere Netzwerke (z. B. Internet) und bilden private Overlay‑Netze für Fernzugriff oder Site‑to‑Site‑Vernetzung.
 

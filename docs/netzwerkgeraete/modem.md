@@ -1,7 +1,5 @@
 # Modem
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration und Anfänger‑Administratoren
-
 ## Einführung
 Ein Modem ist die Schnittstelle zwischen dem Übertragungsmedium des Providers (DSL, Kabel, LTE, Glasfaser) und dem lokalen Netzwerk. Es modulieret/demoduliert Signale und sorgt für die physische Verbindung.
 

@@ -1,7 +1,5 @@
 # Lease Time (DHCP Lease Time)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 Lease Time bestimmt die Dauer, für die eine IP‑Adresse einem Client durch DHCP zugewiesen wird. Sie beeinflusst Netzwerkstabilität und Adressauslastung.
 

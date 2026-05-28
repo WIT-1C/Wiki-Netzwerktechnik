@@ -1,7 +1,5 @@
 # RADIUS (Remote Authentication Dial‑In User Service)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 RADIUS ist ein zentrales Authentifizierungs‑, Autorisierungs‑und Accounting‑Protokoll (AAA), häufig eingesetzt für WLAN‑Enterprise (802.1X) und VPN‑Authentifizierung.
 

@@ -1,7 +1,5 @@
 # TKIP (Temporal Key Integrity Protocol)
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration, Einsteiger‑Administratoren
-
 ## Einführung
 TKIP war ein Übergangsverfahren zur Verbesserung der Sicherheit in WLANs gegenüber WEP. Heute ist TKIP veraltet und gilt als unsicher.
 

@@ -1,7 +1,5 @@
 # Router
 
-Zielgruppe: IT‑Auszubildende, Fachinformatiker Systemintegration und Systemadministratoren (Einsteiger bis Fortgeschrittene)
-
 ## Einführung
 Router verbinden unterschiedliche IP‑Netze (z. B. LAN ↔ WAN) und leiten IP‑Pakete zwischen ihnen weiter. Sie sind das Herzstück der Netzwerkinfrastruktur.
 
