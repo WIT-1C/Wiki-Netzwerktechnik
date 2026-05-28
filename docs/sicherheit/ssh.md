@@ -59,7 +59,7 @@ ssh-copy-id -i ~/.ssh/id_ed25519.pub user@host
 ## Mermaid‑Diagramm
 ```mermaid
 graph LR
-  Admin[Admin Laptop] --> SSH[SSH Server (Port 22)]
+  Admin[Admin Laptop] --> SSH["SSH Server (Port 22)"]
   Admin --> SFTP[SFTP Transfer]
 ```
 
