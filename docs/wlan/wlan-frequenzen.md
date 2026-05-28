@@ -72,9 +72,9 @@ WLAN‑Frequenzen sind Funkbänder innerhalb des Funkspektrums, die für IEEE 80
 ## Mermaid‑Diagramm
 ```mermaid
 graph LR
-  AP2_4[AP 2.4 GHz] --- ClientA[Client (2.4 GHz)]
-  AP5[AP 5 GHz] --- ClientB[Client (5 GHz)]
-  AP6[AP 6 GHz] --- ClientC[Client (6 GHz)]
+  AP2_4[AP 2.4 GHz] --- ClientA["Client (2.4 GHz)"]
+  AP5[AP 5 GHz] --- ClientB["Client (5 GHz)"]
+  AP6[AP 6 GHz] --- ClientC["Client (6 GHz)"]
 ```
 
 ## Zusammenfassung
